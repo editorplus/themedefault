@@ -1,0 +1,8 @@
+.git/
+.idea/
+node_modules/
+_test/
+net/
+dist/
+
+package-lock.json
